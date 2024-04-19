@@ -1,6 +1,4 @@
-My name is CYRILL_THE_GREAT
-
-AGE-14
+_ckya_
 
 I am a programmer mostly works with GUI in Game Engines (cry, GMS2, etc)
 
